@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anjolaaaa
-- 👀 I’m interested in Data analytics 
-- 🌱 I’m currently learning SQL and visualisation 
+- 👀 I’m interested in Machine learning & Cybersecurity
 - 💞️ I’m looking to collaborate on projects that will help me improve 
 - 📫 How to reach me on LinkedIn @https://www.linkedin.com/in/anjola-adelowo-65b60822b
 
